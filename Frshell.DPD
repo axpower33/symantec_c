@@ -1,0 +1,77 @@
+# Symantec IDDE generated .dpd file. V: 7200
+mainfrm.obj: \
+	mainfrm.cpp \
+	stdafx.h \
+	..\..\..\..\..\SC\include\win32\pshpack4.h \
+	..\..\..\..\..\SC\include\win32\pshpack2.h \
+	..\..\..\..\..\SC\include\win32\poppack.h \
+	MDIAPP.h \
+	resource.h \
+	mainfrm.h 
+mdiapdoc.obj: \
+	mdiapdoc.cpp \
+	stdafx.h \
+	..\..\..\..\..\SC\include\win32\pshpack4.h \
+	..\..\..\..\..\SC\include\win32\pshpack2.h \
+	..\..\..\..\..\SC\include\win32\poppack.h \
+	MDIAPP.h \
+	resource.h \
+	..\..\..\..\..\SC\include\math.h \
+	mdiapdoc.h 
+mdiapp.obj: \
+	mdiapp.cpp \
+	stdafx.h \
+	..\..\..\..\..\SC\include\win32\pshpack4.h \
+	..\..\..\..\..\SC\include\win32\pshpack2.h \
+	..\..\..\..\..\SC\include\win32\poppack.h \
+	MDIAPP.h \
+	resource.h \
+	mainfrm.h \
+	mdiapdoc.h \
+	mdiappvw.h 
+mdiappvw.obj: \
+	mdiappvw.cpp \
+	stdafx.h \
+	..\..\..\..\..\SC\include\win32\pshpack4.h \
+	..\..\..\..\..\SC\include\win32\pshpack2.h \
+	..\..\..\..\..\SC\include\win32\poppack.h \
+	MDIAPP.h \
+	resource.h \
+	mdiapdoc.h \
+	mdiappvw.h \
+	..\..\..\..\..\SC\include\math.h 
+mdiapp.RES: \
+	mdiapp.rc \
+	resource.h \
+	..\..\..\..\..\SC\mfc\include\afxres.h \
+	..\..\..\..\..\SC\mfc\include\32-bit\afxres.h \
+	..\..\..\..\..\SC\mfc\include\32-bit\winres.h \
+	res\MDIAPP.ico \
+	res\mdiapdoc.ico \
+	res\toolbar.bmp \
+	res\\MDIAPP.rc2 \
+	..\..\..\..\..\SC\include\ver.h \
+	..\..\..\..\..\SC\include\win32\scdefs.h \
+	..\..\..\..\..\SC\include\win32\VER.H \
+	..\..\..\..\..\SC\include\winver.h \
+	..\..\..\..\..\SC\include\win32\WINVER.H \
+	..\..\..\..\..\SC\mfc\include\afxres.rc \
+	..\..\..\..\..\SC\mfc\include\32-bit\afxres.rc \
+	..\..\..\..\..\SC\mfc\include\res\help.cur \
+	..\..\..\..\..\SC\mfc\include\res\sarrows.cur \
+	..\..\..\..\..\SC\mfc\include\res\splith.cur \
+	..\..\..\..\..\SC\mfc\include\res\splitv.cur \
+	..\..\..\..\..\SC\mfc\include\res\nodrop.cur \
+	..\..\..\..\..\SC\mfc\include\res\trcknwse.cur \
+	..\..\..\..\..\SC\mfc\include\res\trcknesw.cur \
+	..\..\..\..\..\SC\mfc\include\res\trckns.cur \
+	..\..\..\..\..\SC\mfc\include\res\trckwe.cur \
+	..\..\..\..\..\SC\mfc\include\res\trck4way.cur \
+	..\..\..\..\..\SC\mfc\include\res\move4way.cur \
+	..\..\..\..\..\SC\mfc\include\res\3dcheck.bmp \
+	..\..\..\..\..\SC\mfc\include\res\minifwnd.bmp \
+	..\..\..\..\..\SC\mfc\include\res\ntcheck.bmp \
+	..\..\..\..\..\SC\mfc\include\res\95check.bmp \
+	..\..\..\..\..\SC\mfc\include\afxprint.rc \
+	..\..\..\..\..\SC\mfc\include\32-bit\afxprint.rc \
+	..\..\..\..\..\SC\mfc\include\res\magnify.cur 
